@@ -1,0 +1,7 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy >= 2.3
+  - scipy >= 1.16
+  - matplotlib >= 3.10
